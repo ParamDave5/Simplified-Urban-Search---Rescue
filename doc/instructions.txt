@@ -1,0 +1,8 @@
+Instructions to run this package
+
+Steps:
+1. Add this package to your catkin workspace.
+2. Build this package.
+3. Start the Ros Master by using roscore.
+4. In a new terminal, run roslaunch final_project multiple_robots.launch
+5. In a new terminal, run roslaunch final_project go.launch
